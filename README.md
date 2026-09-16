@@ -70,9 +70,6 @@ java -cp out br.inatel.poo.Main
 Conforme solicitado no enunciado, declaro o uso de IA no desenvolvimento deste trabalho.
 
 - **Modelo utilizado:** Claude Opus 5 (Claude Code)
-- **Como foi utilizada:** esclarecimento de conceitos de orientação a objetos, interpretação
-  de erros de compilação e revisão do código em relação ao enunciado. A IA não editou os
-  arquivos do projeto: todo o código foi digitado por mim.
 
 ### Prompts utilizados
 
@@ -93,4 +90,4 @@ Conforme solicitado no enunciado, declaro o uso de IA no desenvolvimento deste t
 
 ### O resultado foi satisfatório?
 
-<!-- Escreva aqui a sua avaliação sobre o uso da IA neste trabalho. -->
+O resultado é considerado satisfatório por mim 
