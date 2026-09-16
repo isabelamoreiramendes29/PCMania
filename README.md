@@ -70,11 +70,26 @@ java -cp out br.inatel.poo.Main
 Conforme solicitado no enunciado, declaro o uso de IA no desenvolvimento deste trabalho.
 
 - **Modelo utilizado:** Claude Opus 5 (Claude Code)
-- **Conversa completa:** <!-- COLE AQUI O LINK DO CHAT -->
-- **Como foi utilizada:** esclarecimento de conceitos de orientação a objetos (agregação,
-  composição, encapsulamento, construtores e métodos utilitários), interpretação de erros
-  de compilação e revisão do código em relação ao enunciado. A IA não editou os arquivos:
-  todo o código foi digitado por mim.
+- **Como foi utilizada:** esclarecimento de conceitos de orientação a objetos, interpretação
+  de erros de compilação e revisão do código em relação ao enunciado. A IA não editou os
+  arquivos do projeto: todo o código foi digitado por mim.
+
+### Prompts utilizados
+
+- Criar o repositório no GitHub e o projeto no IntelliJ.
+- Por que o atributo `hb` estava dando erro (diferença entre criar o array e criar cada objeto).
+- Como apagar um pacote criado no lugar errado e como criar corretamente.
+- Devo colocar `private` em atributos que são agregações?
+- O que o `set` faz? É necessário usar `set` quando existe construtor?
+- No construtor do `Computador` é necessário colocar os atributos de agregação?
+- Quais getters e setters não estão sendo usados e em quais classes estão.
+- O `calculaTotalCompra` é da classe `Cliente` e não do `Computador` — como o preço chega até ele?
+- Como somar apenas as promoções que o usuário escolheu.
+- O que é um método utilitário (helper)? A classe `ProcessarPedido` precisa de construtor?
+- Onde chamar o método `mostraPCConfigs`.
+- Conferir se todo o código está sendo utilizado (atributos, métodos e variáveis sem uso).
+- Compilar e executar o projeto para verificar se o funcionamento está correto.
+- Conferir se o projeto atende a todas as especificações do enunciado e do diagrama UML.
 
 ### O resultado foi satisfatório?
 
